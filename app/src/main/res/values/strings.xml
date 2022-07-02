@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Text Box Experiment</string>
+    <string name="plantName">Plant Name</string>
+    <string name="plantDescription">Description</string>
 </resources>
